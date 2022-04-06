@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OKNewman
-- 👀 I’m interested in games and light scripting.
+- 👀 I’m interested in games and scripting/automation.
 - 🌱 I’m currently learning Python and regular ol' JS
 
 <!---
